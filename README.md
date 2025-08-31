@@ -58,8 +58,6 @@ uvicorn server:app --reload --port 8000
 uvicorn server:app --host 0.0.0.0 --port 8000
 ```
 
-```
-
 ---
 
 ## Project Structure (minimal reference)
